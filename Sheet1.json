@@ -1,1 +1,1 @@
-[{"Type,Content,Alt-text,Size":"H1","undefined":""},{"Type,Content,Alt-text,Size":"Paragraph","undefined":""},{"Type,Content,Alt-text,Size":"Image","undefined":"Large"}]
+[{"Type":"H1","Content":"Hello CMS world!"},{"Type":"Paragraph","Content":"Dette er en paragraf"},{"Type":"Image","Content":"https://images.unsplash.com/photo-1488188840666-e2308741a62f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2948&q=80","Alt-text":"N?rbilde av bl? b?lger hvor solstr?ler treffer","Size":"Large"}]
